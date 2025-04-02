@@ -200,8 +200,3 @@ PS日志加载完成后，可以右键选择复制指定内容：
 `该工具仅供安全研究与学习之用，如用于其他用途，由使用者承担全部法律及连带责任，作者不承担任何法律责任。`
 
 
-# 👍References 
-* https://github.com/abc123info/EquationToolsGUI/
-* https://github.com/mir1ce/Hawkeye
-
-
