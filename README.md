@@ -206,3 +206,4 @@ PS日志加载完成后，可以右键选择复制指定内容：
 # 👍大佬项目 
 * https://github.com/abc123info/EquationToolsGUI/
 * https://github.com/mir1ce/Hawkeye
+* https://github.com/secretsquirrel/SigThief
